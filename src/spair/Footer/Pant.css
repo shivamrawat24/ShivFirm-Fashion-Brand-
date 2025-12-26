@@ -1,0 +1,41 @@
+.pant{
+    height: 65vh;
+    /* width: 100%; */
+    background-color: rgb(156, 197, 210);
+    padding: 14px;
+}
+.pant h2{
+    font-size: 38px;
+    font-weight: 700;
+}
+.pant .all-holder{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding-left: 450px; */
+}
+.footer-img{
+    height: 400px;
+    width: 350px;
+    border: 1px solid black;
+    margin-right: 100px;
+}
+.holder{
+    /* background-color: rebeccapurple; */
+    width: 300px;
+    height: 400px;
+    font-size: 22px;
+    padding: 11px;
+}
+.holder h3{
+    font-size: 26px;
+    font-weight: 700;
+    color: rgb(73, 91, 152);
+}
+.holder ol{
+    list-style: none;
+}
+.holder ol li a{
+    color: white;
+    text-decoration: none;
+}

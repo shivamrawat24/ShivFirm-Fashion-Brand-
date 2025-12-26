@@ -1,0 +1,36 @@
+.phase-1{
+    height: 40vh;
+    /* width: 100%; */
+    margin: 15px 10px;
+    background-color:white;
+}
+.banner-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding-left: 200px;
+    /* background-color: lightsalmon; */
+}
+.banner-1 .offer-img{
+    width: 40%;
+    height: 320px;
+    border: 1px solid black;
+    border-radius: 21px;
+}
+.offer-info{
+    height: 340px;
+    width: 58%;
+    padding: 20px;
+    /* padding-top: 120px; */
+    /* background-color: lightgreen; */
+}
+.offer-info h3{
+    font-size: 43px;
+    font-weight: 600;
+    margin-top: 70px;
+}
+.offer-info p{
+    font-size: 22px;
+    /* font-weight: 600; */
+}

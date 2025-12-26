@@ -1,0 +1,24 @@
+.topper{
+    width: 100%;
+    /* height: 55px; */
+
+}
+.topper nav ul{
+    /* width: auto; */
+    background-color:lightblue;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style: none;
+    padding-left: 300px;
+}
+.topper ul li a{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(62, 91, 146);
+}
+.topper ul .highlight a{
+    font-size: 38px;
+}
