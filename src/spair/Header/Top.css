@@ -12,13 +12,17 @@
     justify-content: space-evenly;
     list-style: none;
     padding-left: 300px;
+    text-decoration: none;
 }
-.topper ul li a{
+.topper nav ul .undernine{
+    text-decoration: none;
+}
+.topper ul li{
     text-decoration: none;
     font-size: 25px;
     font-weight: 600;
     color: rgb(62, 91, 146);
 }
-.topper ul .highlight a{
+.topper ul .highlight{
     font-size: 38px;
 }

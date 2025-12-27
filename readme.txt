@@ -18,3 +18,12 @@ E-commerce app - clone
 okay then, let see how the flow work
 there will be a face page which will come after selecting one of the multiple , and the face page will show the about the product info..
 okay then, i have to create multiple products data
+
+
+echo "# ShivFirm-Fashion-Brand-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/shivamrawat24/ShivFirm-Fashion-Brand-.git
+git push -u origin main
